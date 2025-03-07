@@ -20,32 +20,29 @@ let stringTen = "10";
 
 if ((numberOne == stringOne) && ! (numberOne === stringOne))
 {
-    console.log("The variable numberOne and stringOne have the same value",
-                "but different types");
+    console.log("The variable numberOne and stringOne have the same value but different types");
 }
 else
 {
-    console.log("The variables number One and stringOne don't have the same value");
+    console.log("The variables numberOne and stringOne don't have the same value");
 }
 
 if ((numberThirty == stringThirty) && ! (numberThirty === stringThirty))
 {
-    console.log("The variable numberThirty and stringThirty have the same value",
-                "but different types");
+    console.log("The variable numberThirty and stringThirty have the same value but different types");
 }
 else
 {
-    console.log("The variables number Thirty and stringThirty don't have the same value");
+    console.log("The variables numberThirty and stringThirty don't have the same value");
 }
 
 if ((numberTen == stringTen) && ! (numberTen === stringTen))
 {
-    console.log("The variable numberTen and stringTen have the same value",
-                "but different types");
+    console.log("The variable numberTen and stringTen have the same value but different types");
 }
 else
 {
-    console.log("The variables number Ten and stringTen don't have the same value");
+    console.log("The variables numberTen and stringTen don't have the same value");
 }
 
 
