@@ -8,5 +8,5 @@ let userAge = prompt("How old are you? ");
 let userProgLang = prompt("What programming language are you studying? ");
 
 console.log(`Hello ${userName}, you are ${userAge} years old and` +
-    ` already studyging ${userProgLang}.`);
+    ` you are already studying ${userProgLang}.`);
 
